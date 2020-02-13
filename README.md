@@ -1,2 +1,0 @@
-# Final-AdvEmbedded
- Final Exam
